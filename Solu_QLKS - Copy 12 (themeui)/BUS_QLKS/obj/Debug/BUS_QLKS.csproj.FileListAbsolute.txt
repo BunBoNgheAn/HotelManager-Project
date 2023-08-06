@@ -1,0 +1,146 @@
+H:\Đồ án CNTT\Solu_QLKS\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Solu_QLKS\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Solu_QLKS - Copy\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 1\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 1\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 1\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 1\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 1\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 1\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 1\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Solu_QLKS - Copy 1\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 1\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 2\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 2\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 2\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 2\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 2\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 2\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 2\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Solu_QLKS - Copy 2\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 2\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Solu_QLKS - Copy 3\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Solu_QLKS - Copy 3\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Solu_QLKS - Copy 3\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3 - Copy\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3 - Copy\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3 - Copy\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3 - Copy\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3 - Copy\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3 - Copy\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3 - Copy\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3 - Copy\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 3 - Copy\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4  (DPDV)\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4  (DPDV)\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4  (DPDV)\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4  (DPDV)\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4  (DPDV)\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4  (DPDV)\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4  (DPDV)\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4  (DPDV)\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 4  (DPDV)\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 6  (DPDV)\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 6  (DPDV)\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 6  (DPDV)\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 6  (DPDV)\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 6  (DPDV)\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 6  (DPDV)\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 6  (DPDV)\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 6  (DPDV)\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 6  (DPDV)\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 7  (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 7  (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 7  (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 7  (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 7  (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 7  (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 7  (DPDV) thông tin khách hàng\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 7  (DPDV) thông tin khách hàng\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 7  (DPDV) thông tin khách hàng\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 8 (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 8 (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 8 (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 8 (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 8 (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 8 (DPDV) thông tin khách hàng\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 8 (DPDV) thông tin khách hàng\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 8 (DPDV) thông tin khách hàng\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 8 (DPDV) thông tin khách hàng\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 9 (DPDV) lưu đặt phòng\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 9 (DPDV) lưu đặt phòng\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 9 (DPDV) lưu đặt phòng\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 9 (DPDV) lưu đặt phòng\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 9 (DPDV) lưu đặt phòng\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 9 (DPDV) lưu đặt phòng\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 9 (DPDV) lưu đặt phòng\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 9 (DPDV) lưu đặt phòng\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 9 (DPDV) lưu đặt phòng\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\obj\Debug\BUS_QLKS.csproj.AssemblyReference.cache
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\obj\Debug\BUS_QLKS.csproj.CoreCompileInputs.cache
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\obj\Debug\BUS_QLKS.csproj.CopyComplete
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+D:\Đồ án\Solu_QLKS - Copy 10 (DPDV) lưu dử dụng dịch vụ\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 12 (themeui)\BUS_QLKS\bin\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 12 (themeui)\BUS_QLKS\bin\Debug\BUS_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 12 (themeui)\BUS_QLKS\bin\Debug\DAL_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 12 (themeui)\BUS_QLKS\bin\Debug\DTO_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 12 (themeui)\BUS_QLKS\bin\Debug\DAL_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 12 (themeui)\BUS_QLKS\bin\Debug\DTO_QLKS.pdb
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 12 (themeui)\BUS_QLKS\obj\Debug\BUS_QLKS.csprojResolveAssemblyReference.cache
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 12 (themeui)\BUS_QLKS\obj\Debug\BUS_QLKS.dll
+H:\Đồ án CNTT\Đồ án QLKS (take 2)\Solu_QLKS - Copy 12 (themeui)\BUS_QLKS\obj\Debug\BUS_QLKS.pdb
